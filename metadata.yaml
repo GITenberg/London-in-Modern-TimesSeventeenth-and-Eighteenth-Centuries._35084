@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/49
     wikipedia: http://www.gutenberg.org/browse/authors/a#a216
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35084#London-in-Modern-TimesSeventeenth-and-Eighteenth-Centuries.
 gutenberg_issued: '2011-01-26'
 gutenberg_type: Text
 identifiers:
